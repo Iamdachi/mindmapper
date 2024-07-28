@@ -1,0 +1,22 @@
+#graph {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+line {
+    stroke: #ccc;
+    stroke-width: 2px;
+}
+
+circle {
+    fill: #4285f4;
+}
+
+text {
+    font-size: 12px;
+    fill: #333;
+}
+
